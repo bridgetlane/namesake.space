@@ -1,2 +1,2 @@
-# namesake.space
-Namesake Studios Homepage
+# [Namesake Studios Homepage](http://namesake.space/)
+Homepage of Namesake Studios.
